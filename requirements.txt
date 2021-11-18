@@ -1,0 +1,6 @@
+setuptools~=50.3.0
+numpy~=1.19.1
+torchvision~=0.11.1
+pillow~=8.0.0
+transformers~=2.1.1
+orjson~=3.6.4

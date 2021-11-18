@@ -48,3 +48,24 @@ coverage.xml
 
 # Sphinx documentation
 docs/_build/
+CommEfficient/dataset/cifar-10-batches-py/batches.meta
+CommEfficient/dataset/cifar-10-batches-py/data_batch_1
+CommEfficient/dataset/cifar-10-batches-py/data_batch_2
+CommEfficient/dataset/cifar-10-batches-py/data_batch_3
+CommEfficient/dataset/cifar-10-batches-py/data_batch_4
+CommEfficient/dataset/cifar-10-batches-py/data_batch_5
+CommEfficient/dataset/cifar-10-batches-py/readme.html
+CommEfficient/dataset/cifar-10-batches-py/test_batch
+CommEfficient/dataset/cifar-10-python.tar.gz
+CommEfficient/dataset/client0.npy
+CommEfficient/dataset/client1.npy
+CommEfficient/dataset/client2.npy
+CommEfficient/dataset/client3.npy
+CommEfficient/dataset/client4.npy
+CommEfficient/dataset/client5.npy
+CommEfficient/dataset/client6.npy
+CommEfficient/dataset/client7.npy
+CommEfficient/dataset/client8.npy
+CommEfficient/dataset/client9.npy
+CommEfficient/dataset/stats.json
+CommEfficient/dataset/test.npz

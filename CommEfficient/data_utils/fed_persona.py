@@ -12,7 +12,7 @@ import numpy as np
 
 from torch.nn.utils.rnn import pad_sequence
 
-from pytorch_transformers import cached_path
+from transformers import cached_path
 
 from utils import Logger
 

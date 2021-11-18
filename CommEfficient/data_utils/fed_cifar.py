@@ -1,13 +1,14 @@
 import json
 import os
-
 import numpy as np
 
 from data_utils import FedDataset
 import torchvision
 from torchvision.datasets import CIFAR10, CIFAR100
 from PIL import Image
+import ssl
 
+ssl._create_default_https_context = ssl._create_unverified_context
 __all__ = ["FedCIFAR10", "FedCIFAR100"]
 
 class FedCIFAR10(FedDataset):
